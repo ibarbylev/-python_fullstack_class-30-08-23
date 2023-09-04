@@ -1,1 +1,1 @@
-# -python_fullstack_class-30-08-23
+# Logomochine class repository
